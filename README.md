@@ -67,21 +67,4 @@ This project is an interactive Bike Sales Dashboard built in Microsoft Excel to 
 
 ---
 
-## 📷 Dashboard Preview
 
-![Bike Sales Dashboard](Screenshot 2026-03-28 171307.png)
-
----
-
-## 📂 Files Included
-
-- Bike Sales Dashboard.xlsx
-- Bike Sales Dataset.xlsx
-- Dashboard Screenshot
-- README.md
-
----
-
-## 👤 Author
-
-Krishna Mishra
