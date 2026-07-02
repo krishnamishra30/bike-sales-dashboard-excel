@@ -69,4 +69,4 @@ This project is an interactive Bike Sales Dashboard built in Microsoft Excel to 
 
 ## 📷 Dashboard Preview
 
-![Bike Sales Dashboard](Screenshot 2026-03-28 171307.png)
+bike-sales-dashboard.png
